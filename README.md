@@ -22,10 +22,10 @@ I'm Dubem from Nigeria<br><br>
 
 
 <ul>
-  <li>Email: <a href="mailto:karankendreg@gmail.com">karankendreg@gmail.com</a></li>
+  <li>Email: <a href="mailto:chidubem.chukwuafu@gmail.com">chidubem.chukwuafu@gmail.com</a></li>
   >
   <li>Twitter/X: <a href="https://x.com/dubemtheking" target="_blank">@dubemtheking</a></li>
-  <li>GitHub: <a href="https://github.com/kendrekaran" target="_blank">kendrekaran</a></li>
+  <li>GitHub: <a href="https://github.com/dubyyy" target="_blank">dubyyy</a></li>
 </ul>
 
 <div align="center">
