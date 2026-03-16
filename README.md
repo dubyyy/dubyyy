@@ -6,8 +6,6 @@
 </p>
 
 <br/>
->
-
 
 
 <br/>
@@ -16,7 +14,7 @@
 
 <p align="left">
 JavaScript • TypeScript • Python • Go • Solidity <br/>
-Next.js • Node.js • REST APIs • Web3 • System Design
+Next.js • Node.js • REST APIs • Web3 • System Design •C?C++
 </p>
 
 <br/>
