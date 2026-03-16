@@ -6,18 +6,9 @@
 </p>
 
 <br/>
+>
 
-<h3 align="left">About Me</h3>
 
-<p align="left">
-I'm Dubem — an engineer who builds clean, scalable, and visually refined digital products.
-
-I combine thoughtful design with solid engineering to turn ideas into real, usable solutions.
-
-- 🛠 Experienced working with local and international clients as a freelancer  
-- 🎯 Focused on building products that are both functional and delightful to use  
-- 🚀 Strong interest in modern web technologies and performance-driven development  
-</p>
 
 <br/>
 
