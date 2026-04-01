@@ -14,7 +14,6 @@ Nigeria 🇳🇬
 
 ## 🚀 About Me
 
-* 🎓 **Computer Engineering (400 Level)**
 * 🧠 Interested in **systems programming, backend engineering, and machine learning**
 * ⚙️ Building **real-world products and SaaS tools**
 * 📈 Focused on **shipping useful software and scalable startups**
