@@ -6,12 +6,6 @@
 ### About Me
 Product-focused **Software Engineer** and **Computer Engineering student** from Nigeria 🇳🇬, working across systems programming, backend engineering, and machine learning. I build real-world products, ship fast, and keep code production-ready.
 
-### Current Focus
-- ⚙️ Building AI-powered backend systems and APIs
-- 🧠 Learning systems programming in C, network programming, and system design
-- ⛓️ Exploring blockchain and smart contract development
-- 💬 Ask me about: `JavaScript`, `TypeScript`, `Python`, `Go`, `C`, `React`, `Next.js`, `Solidity`, `System Design`
-
 ### Connect With Me
 <p align="left">
   <a href="mailto:chidubem.chukwuafu@gmail.com"><img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" /></a>
