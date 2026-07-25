@@ -4,12 +4,12 @@
 </p>
 
 ### About Me
-I'm a product-focused **Software Engineer** and **Computer Engineering student** from Nigeria 🇳🇬, interested in systems programming, backend engineering, and machine learning. I like building real-world products and SaaS tools, shipping fast, and iterating while keeping code production-ready.
+Product-focused **Software Engineer** and **Computer Engineering student** from Nigeria 🇳🇬, working across systems programming, backend engineering, and machine learning. I build real-world products, ship fast, and keep code production-ready.
 
 ### Current Focus
-- ⚙️ Building **AI-powered SaaS products** and backend systems/APIs
-- 🧠 Learning **systems programming in C**, **network programming**, and **system design**
-- ⛓️ Exploring **blockchain / smart contract** development
+- ⚙️ Building AI-powered backend systems and APIs
+- 🧠 Learning systems programming in C, network programming, and system design
+- ⛓️ Exploring blockchain and smart contract development
 - 💬 Ask me about: `JavaScript`, `TypeScript`, `Python`, `Go`, `C`, `React`, `Next.js`, `Solidity`, `System Design`
 
 ### Connect With Me
@@ -39,8 +39,4 @@ I'm a product-focused **Software Engineer** and **Computer Engineering student**
 
 <p align="center">
   <img src="https://komarev.com/ghpvc/?username=dubyyy&label=Profile+views&color=1E90FF&style=flat" alt="dubyyy" />
-</p>
-
-<p align="center">
-  <strong>✨ Building useful software, one project at a time. ✨</strong>
 </p>
