@@ -1,9 +1,5 @@
 <!-- Typing Banner -->
-<p align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=28&pause=1000&color=1E90FF&center=true&vCenter=true&width=1000&lines=Software+Engineer+%7C+Product+Builder;Building+Scalable+Systems+%26+Dev+Tools;AI-Powered+Products%2C+Shipped+Fast;Systems+Thinker+%7C+0%E2%86%921+Builder;Code.+Ship.+Iterate." alt="Typing SVG" />
-</p>
 
-### About Me
 Product-focused Software Engineer and Computer Engineering student, working across systems programming  backend engineering and devops, I build real-world products, ship fast, and keep code production-ready.
 
 ### Building & Contributing
