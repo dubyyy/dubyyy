@@ -14,10 +14,6 @@
   <img src="https://skillicons.dev/icons?i=js,ts,py,go,c,react,nextjs,nodejs,solidity,postgres,git,github,githubactions,docker,bash,linux,aws" />
 </p>
 
-### 💡 Random Dev Quote
-<p align="center">
-  <img src="https://quotes-github-readme.vercel.app/api?type=horizontal&theme=dark" />
-</p>
 
 <p align="center">
   <img src="https://komarev.com/ghpvc/?username=dubyyy&label=Profile+views&color=1E90FF&style=flat" alt="dubyyy" />
