@@ -1,7 +1,5 @@
 <!-- Typing Banner -->
 
-Product-focused Software Engineer and Computer Engineering student, working across systems programming  backend engineering and devops, I build real-world products, ship fast, and keep code production-ready.
-
 ### Building & Contributing
 - Contributor to [VengeanceUI](https://github.com/Ashutoshx7/VengeanceUI), an animated component library with 40K+ monthly visitors and 1000+ GitHub stars
 
