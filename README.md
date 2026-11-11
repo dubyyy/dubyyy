@@ -1,7 +1,6 @@
 <!-- Typing Banner -->
 
-### Building & Contributing
-- Contributor to [VengeanceUI](https://github.com/Ashutoshx7/VengeanceUI), an animated component library with 40K+ monthly visitors and 1000+ GitHub stars
+
 
 <p align="left">
   <a href="mailto:chidubem.chukwuafu@gmail.com"><img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" /></a>
