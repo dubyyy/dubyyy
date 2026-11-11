@@ -3,10 +3,10 @@
 Software developer moving into **cloud & DevOps**. I write Go, build on AWS, and like automating anything I have to do twice.
 
 ### Currently
-- 🎯 Preparing for **AWS Solutions Architect Associate**
-- 🔧 Building infrastructure with **Terraform** and CI/CD with **GitHub Actions**
-- 🐹 Writing **Go** tooling for cloud and observability
-- 🌱 Contributing to open source in the cloud-native ecosystem
+-  Preparing for **AWS Solutions Architect Associate**
+-  Building infrastructure with **Terraform** and CI/CD with **GitHub Actions**
+-  Writing **Go** tooling for cloud and observability
+-  Contributing to open source in the cloud-native ecosystem
 
 ### Tech Stack
 **Cloud & DevOps**
