@@ -1,4 +1,4 @@
-# Hi, I'm Chidubem 👋
+# Hi, I'm Michael Dubem Chukwuafu
 
 Software developer moving into **cloud & DevOps**. I write Go, build on AWS, and like automating anything I have to do twice.
 
