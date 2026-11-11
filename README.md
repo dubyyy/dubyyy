@@ -1,19 +1,27 @@
-<!-- Typing Banner -->
+# Hi, I'm Chidubem 👋
 
+Software developer moving into **cloud & DevOps**. I write Go, build on AWS, and like automating anything I have to do twice.
 
+### Currently
+- 🎯 Preparing for **AWS Solutions Architect Associate**
+- 🔧 Building infrastructure with **Terraform** and CI/CD with **GitHub Actions**
+- 🐹 Writing **Go** tooling for cloud and observability
+- 🌱 Contributing to open source in the cloud-native ecosystem
 
-<p align="left">
-  <a href="mailto:chidubem.chukwuafu@gmail.com"><img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" /></a>
-  <a href="https://x.com/dubemtheking"><img src="https://img.shields.io/badge/X-black?style=for-the-badge&logo=x&logoColor=white" /></a>
-  <a href="https://github.com/dubyyy"><img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white" /></a>
+### Tech Stack
+**Cloud & DevOps**
+<p>
+  <img src="https://skillicons.dev/icons?i=aws,terraform,docker,kubernetes,githubactions,linux,bash,prometheus,grafana" />
 </p>
 
-### Tech Stack & Tools
-<p align="center">
-  <img src="https://skillicons.dev/icons?i=js,ts,py,go,c,react,nextjs,nodejs,solidity,postgres,git,github,githubactions,docker,bash,linux,aws" />
+**Languages**
+<p>
+  <img src="https://skillicons.dev/icons?i=go,py,ts,js" />
 </p>
 
+### Writing
+- [Post title](link)
 
-<p align="center">
-  <img src="https://komarev.com/ghpvc/?username=dubyyy&label=Profile+views&color=1E90FF&style=flat" alt="dubyyy" />
-</p>
+### Connect
+<a href="mailto:chidubem.chukwuafu@gmail.com"><img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" /></a>
+<a href="https://x.com/dubemtheking"><img src="https://img.shields.io/badge/X-black?style=for-the-badge&logo=x&logoColor=white" /></a>
